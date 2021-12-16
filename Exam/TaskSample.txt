@@ -5,7 +5,8 @@
 Розробити Jupyter Notebook для вирішення завдання класифікації
 на основі наборів даних:
 #1 - {}
-#2 - ([link])
+
+#2 - https://drive.google.com/drive/folders/15MdqvRMl8YPFCbemyiLdUcX5SL4A5mx2?usp=sharing
 
 Забезпечити виконання наступних етапів:
 1. Завантаження та попередній аналіз даних.
